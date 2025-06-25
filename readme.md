@@ -146,3 +146,9 @@ A smart ticket management system that leverages AI to streamline support ticket 
 - MongoDB for database
 
 **Special thanks to Chai Code. Hitesh sir ❤️, thank you so much!**
+
+---
+
+## 📊 Eraser Workspace
+
+[Eraser Diagram Workspace](https://app.eraser.io/workspace/YDQCPV3Jzqa4c7hQuFiH?origin=share)
